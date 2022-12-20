@@ -54,7 +54,7 @@ const About = () => {
                 I am Aman, web developer from India. I have profound interest in
                 website design, building and customization, and everything in
                 between, also am good at ReactJS.
-              </p>
+             </p>
             </div>
           </div>
         </div>
