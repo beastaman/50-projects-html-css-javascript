@@ -22,7 +22,7 @@ const About = () => {
             </p>
 
             <a
-              href={SocialLink.LINK_GITHUB_REPO}
+              href={"https://github.com/beastaman/50-projects-html-css-javascript"}
               target="_blank"
               rel="noreferrer"
             >
@@ -48,10 +48,10 @@ const About = () => {
 
             <div className="about-author-desc">
               <h3>
-                Web Developer, <span>nvan.ha</span>
+                Web Developer, <span>beast aman</span>
               </h3>
               <p>
-                I am Ha, web developer from VietNam. I have profound interest in
+                I am AMman, web developer from India. I have profound interest in
                 website design, building and customization, and everything in
                 between, also am good at ReactJS.
               </p>
