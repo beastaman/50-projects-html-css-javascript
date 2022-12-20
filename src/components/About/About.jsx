@@ -1,7 +1,7 @@
 import React from "react";
 import { GithubOutlined } from "@ant-design/icons";
 import bannerAbout from "./../../assets/images/banner/html-css-js.png";
-import avt from "./../../assets/images/avt/avt.jpg";
+import avt from "./../../assets/images/avt/avt-21.jpg";
 import * as SocialLink from "./../../constants/SocialLink";
 const About = () => {
   return (
@@ -48,10 +48,10 @@ const About = () => {
 
             <div className="about-author-desc">
               <h3>
-                Web Developer, <span>beast aman</span>
+                Web Developer, <span>beastaman</span>
               </h3>
               <p>
-                I am AMman, web developer from India. I have profound interest in
+                I am Aman, web developer from India. I have profound interest in
                 website design, building and customization, and everything in
                 between, also am good at ReactJS.
               </p>
