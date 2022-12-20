@@ -22,7 +22,7 @@ const About = () => {
             </p>
 
             <a
-              href={"https://github.com/beastaman/50-projects-html-css-javascript"}
+              href={SocialLink.LINK_GITHUB_REPO}
               target="_blank"
               rel="noreferrer"
             >
