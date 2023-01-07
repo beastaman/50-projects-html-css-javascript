@@ -51,7 +51,7 @@ const About = () => {
                 Web Developer, <span>beastaman</span>
               </h3>
               <p>
-                I am Aman, web developer from India. I have profound interest in
+                I am Mohammed Aman, web developer from India. I have profound interest in
                 website design, building and customization, and everything in
                 between, also am good at ReactJS.
              </p>
